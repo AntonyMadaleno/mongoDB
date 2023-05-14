@@ -1,1 +1,5 @@
 # mongoDB
+
+Requirements:
+
+pymongo, mongoDB
